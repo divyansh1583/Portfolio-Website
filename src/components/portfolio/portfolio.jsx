@@ -7,35 +7,28 @@ export default function Portfolio() {
       
       <div className="container">
         <div className="item">
-          <a href="https://drive.google.com/drive/folders/1VCkL4wiYY2MkCwrmhEY1w2--bJtsv_Qe?usp=sharing" 
+          <a href="https://github.com/divyansh1583/UTCL_Canteen" 
           target="_blank" rel="noopener noreferrer">
-          <img src="assests/sign.jpg" alt="" />
+          <img src="assests/canteen.jpg" alt="" />
           </a>
-          <h2>Sign Language Detection</h2>
+          <h2>UTCL Canteen App</h2>
           
         </div>
-        
+         
         <div className="item">
-          <a href="https://drive.google.com/drive/folders/1TEE_L8TJ9kvbI8izjU2D3IlN3k9yi7fd?usp=sharing" target="_blank" rel="noopener noreferrer">
-          <img src="assests/face.jpg" alt="" />
-          </a>
-          <h2>Face Mask Detection</h2>
+         <a href="https://github.com/divyansh1583/quiz_app">
+        <img src="assests/quiz.jpg" alt="" />
+         </a>
+         <h2>Quiz App</h2>
         </div>
-        
+      </div>
+
         <div className="item">
-          <a href="https://drive.google.com/drive/folders/1R04aJP49k-Cc7nzuLdzLyjBZ3eP2HyUa?usp=sharing" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/divyansh1583/Mausam">
         <img src="assests/weather.jpg" alt="" />
           </a>
           <h2>API Based Weather App</h2>
         </div>
-        
-        <div className="item">
-         <a href="https://drive.google.com/drive/folders/1bAXzUANsifkluvwmqV4tnutp6VL5xHdm?usp=sharing" target="_blank" rel="noopener noreferrer">
-        <img src="assests/portfolio.jpg" alt="" />
-         </a>
-         <h2>React Portfolio Website</h2>
-        </div>
-      </div>
     </div>
   ) 
 }

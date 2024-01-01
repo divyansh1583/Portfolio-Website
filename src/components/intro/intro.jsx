@@ -27,9 +27,8 @@ export default function Intro() {
        <h4>
        </h4>
        <h5>
-       I'm currently a 3rd year engineering student from Jaypee University of Information Technology.
-       Currently pursuing BTech in Computer Science and Engineering with Proficiency in Cloud Computing 
-       from Jaypee University of Information Technology.
+       I'm a flutter deveolper and currently pursuing my BTech in Computer Science and Engineering from Jaypee University of Information Technology, Solan.
+       Below is some sneek peek into my recent projects. Feel free to explore them and leave a message for any query.
         </h5>
         </div>
         <a href="#portfolio">
