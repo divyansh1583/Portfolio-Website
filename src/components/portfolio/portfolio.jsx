@@ -14,21 +14,25 @@ export default function Portfolio() {
           <h2>UTCL Canteen App</h2>
           
         </div>
-         
+        
         <div className="item">
-         <a href="https://github.com/divyansh1583/quiz_app">
-        <img src="assests/quiz.jpg" alt="" />
-         </a>
-         <h2>Quiz App</h2>
+          <a href="https://github.com/divyansh1583/quiz_app"
+          target="_blank" rel="noopener noreferrer">
+          <img src="assests/quiz.jpg" alt="" />
+          </a>
+          <h2>Quiz App</h2>
         </div>
-      </div>
-
+        
         <div className="item">
-          <a href="https://github.com/divyansh1583/Mausam">
+          <a href="https://github.com/divyansh1583/Mausam"
+          target="_blank" rel="noopener noreferrer">
         <img src="assests/weather.jpg" alt="" />
           </a>
           <h2>API Based Weather App</h2>
         </div>
+        
+        
+      </div>
     </div>
   ) 
 }
